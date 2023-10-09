@@ -2,7 +2,7 @@
 
 <html lang="en">
 <head>
-<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/><meta charset="utf-8"/>
 <title>
    Seattle Suburbs
   </title>
@@ -41,7 +41,21 @@
       }
     }
   </style>
-</head>
+<style>
+    @media only screen and (max-width: 600px) {
+        h1 {
+            font-size: 6vw;
+        }
+        .language-grid, .suburb-grid, .service-grid {
+            grid-template-columns: repeat(2, 1fr);
+            gap: 4vw;
+        }
+        .language-button, .suburb-button, .service-button {
+            font-size: 4vw;
+            padding: 2vw;
+        }
+    }
+    </style></head>
 <body>
 <h1>
    Select a Seattle Suburb
