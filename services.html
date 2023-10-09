@@ -2,7 +2,7 @@
 
 <html lang="en">
 <head>
-<meta content="width=device-width, initial-scale=1" name="viewport"/><meta charset="utf-8"/>
+<meta charset="utf-8"/>
 <title>
    Select a Service
   </title>
@@ -48,22 +48,23 @@
         font-size: 6vw;
       }
     }
-  </style>
-<style>
+  
     @media only screen and (max-width: 600px) {
         h1 {
-            font-size: 6vw;
+            font-size: 8vw;
         }
         .language-grid, .suburb-grid, .service-grid {
-            grid-template-columns: repeat(2, 1fr);
-            gap: 4vw;
+            grid-template-columns: repeat(1, 1fr);
+            gap: 6vw;
+            overflow: auto;
         }
         .language-button, .suburb-button, .service-button {
-            font-size: 4vw;
-            padding: 2vw;
+            font-size: 8vw;
+            padding: 4vw;
         }
     }
-    </style></head>
+    </style>
+</head>
 <body>
 <h1>
    Select a Service
