@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>
+   Seattle Suburbs
+  </title>
+<style>
+   /* Center the title */
+    h1 {
+      text-align: center;
+      font-size: 5vw;
+    }
+    /* Style for the grid container */
+    .suburb-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 2vw;
+      margin: auto;
+      width: 90%;
+    }
+    /* Style for the buttons */
+    .suburb-button {
+      font-size: 2vw;
+      padding: 1vw;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 12vw;
+      width: 100%;
+      border: 1px solid #ccc;
+      border-radius: 1vw;
+    }
+    /* Media query for smaller screens */
+    @media screen and (max-width: 768px) {
+      .suburb-button {
+        font-size: 3vw;
+        height: 16vw;
+      }
+    }
+  </style>
+</head>
+<body>
+<h1>
+   Select a Seattle Suburb
+  </h1>
+<div class="suburb-grid">
+<!-- Suburb buttons -->
+<button class="suburb-button" onclick="window.location.href = 'services.html'">
+    Bellevue
+   </button>
+<button class="suburb-button" onclick="window.location.href = 'services.html'">
+    Redmond
+   </button>
+<button class="suburb-button" onclick="window.location.href = 'services.html'">
+    Kirkland
+   </button>
+<button class="suburb-button" onclick="window.location.href = 'services.html'">
+    Renton
+   </button>
+<!-- ... Add more suburbs here -->
+</div>
+</body>
+</html>

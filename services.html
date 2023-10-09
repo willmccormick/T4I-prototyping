@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>
+   Select a Service
+  </title>
+<style>
+   /* Center the title */
+    h1 {
+      text-align: center;
+      font-size: 5vw;
+    }
+    /* Style for the grid container */
+    .service-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 2vw;
+      margin: auto;
+      width: 90%;
+    }
+    /* Style for the buttons */
+    .service-button {
+      font-size: 2vw;
+      padding: 1vw;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 12vw;
+      width: 100%;
+      border: 1px solid #ccc;
+      border-radius: 1vw;
+    }
+    /* Style for the emojis */
+    .emoji {
+      font-size: 4vw;
+      margin-right: 1vw;
+    }
+    /* Media query for smaller screens */
+    @media screen and (max-width: 768px) {
+      .service-button {
+        font-size: 3vw;
+        height: 16vw;
+      }
+      .emoji {
+        font-size: 6vw;
+      }
+    }
+  </style>
+</head>
+<body>
+<h1>
+   Select a Service
+  </h1>
+<div class="service-grid">
+<!-- Service buttons -->
+<button class="service-button" onclick="showService('Healthcare')">
+<span class="emoji">
+     🏥
+    </span>
+    Healthcare
+   </button>
+<!-- ... (continue with the rest of the buttons in the same manner) -->
+<button class="service-button" onclick="showService('Housing')"><span class="emoji">🏠</span> Housing</button><button class="service-button" onclick="showService('Schooling')"><span class="emoji">🏫</span> Schooling</button><button class="service-button" onclick="showService('Transportation')"><span class="emoji">🚌</span> Transportation</button><button class="service-button" onclick="showService('Finance')"><span class="emoji">💳</span> Finance</button><button class="service-button" onclick="showService('Employment')"><span class="emoji">💼</span> Employment</button><button class="service-button" onclick="showService('Utilities')"><span class="emoji">💡</span> Utilities</button><button class="service-button" onclick="showService('Recreation')"><span class="emoji">⚽</span> Recreation</button><button class="service-button" onclick="showService('Legal Services')"><span class="emoji">⚖️</span> Legal Services</button><button class="service-button" onclick="showService('Mental Health')"><span class="emoji">🧠</span> Mental Health</button><button class="service-button" onclick="showService('Internet &amp; Tech')"><span class="emoji">💻</span> Internet &amp; Tech</button><button class="service-button" onclick="showService('Animal Care')"><span class="emoji">🐕</span> Animal Care</button></div>
+</body>
+</html>
