@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="469px" preserveAspectRatio="none" style="width:773px;height:469px;background:#FFFFFF;" version="1.1" viewBox="0 0 773 469" width="773px" zoomAndPan="magnify"><defs/><g><line style="stroke:#A9A9A9;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="64" x2="64" y1="86.2188" y2="372.3281"/><line style="stroke:#A9A9A9;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="188" x2="188" y1="86.2188" y2="372.3281"/><line style="stroke:#A9A9A9;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="295" x2="295" y1="86.2188" y2="372.3281"/><line style="stroke:#A9A9A9;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="393" x2="393" y1="86.2188" y2="372.3281"/><line style="stroke:#A9A9A9;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="493" x2="493" y1="86.2188" y2="372.3281"/><line style="stroke:#A9A9A9;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="593" x2="593" y1="86.2188" y2="372.3281"/><line style="stroke:#A9A9A9;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="710" x2="710" y1="86.2188" y2="372.3281"/><path d="M10,41 L119,41 C124,41 124,63.6094 124,63.6094 C124,63.6094 124,86.2188 119,86.2188 L10,86.2188 C5,86.2188 5,63.6094 5,63.6094 C5,63.6094 5,41 10,41 " fill="#F7DC6F" style="stroke:#181818;stroke-width:0.5;"/><path d="M119,41 C114,41 114,63.6094 114,63.6094 C114,86.2188 119,86.2188 119,86.2188 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="10" y="60.5332">Scrape Cleaner</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="20" y="78.1426">[Part of App]</text><path d="M10,371.3281 L119,371.3281 C124,371.3281 124,393.9375 124,393.9375 C124,393.9375 124,416.5469 119,416.5469 L10,416.5469 C5,416.5469 5,393.9375 5,393.9375 C5,393.9375 5,371.3281 10,371.3281 " fill="#F7DC6F" style="stroke:#181818;stroke-width:0.5;"/><path d="M119,371.3281 C114,371.3281 114,393.9375 114,393.9375 C114,416.5469 119,416.5469 119,416.5469 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="10" y="390.8613">Scrape Cleaner</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="20" y="408.4707">[Part of App]</text><path d="M139,41 L238,41 C243,41 243,63.6094 243,63.6094 C243,63.6094 243,86.2188 238,86.2188 L139,86.2188 C134,86.2188 134,63.6094 134,63.6094 C134,63.6094 134,41 139,41 " fill="#F7DC6F" style="stroke:#181818;stroke-width:0.5;"/><path d="M238,41 C233,41 233,63.6094 233,63.6094 C233,86.2188 238,86.2188 238,86.2188 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="139" y="60.5332">Crawl Cleaner</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="144" y="78.1426">[Part of App]</text><path d="M139,371.3281 L238,371.3281 C243,371.3281 243,393.9375 243,393.9375 C243,393.9375 243,416.5469 238,416.5469 L139,416.5469 C134,416.5469 134,393.9375 134,393.9375 C134,393.9375 134,371.3281 139,371.3281 " fill="#F7DC6F" style="stroke:#181818;stroke-width:0.5;"/><path d="M238,371.3281 C233,371.3281 233,393.9375 233,393.9375 C233,416.5469 238,416.5469 238,416.5469 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="139" y="390.8613">Crawl Cleaner</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="144" y="408.4707">[Part of App]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="255" y="65.5332">Coordinator</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="253" y="83.1426">[Part of App]</text><ellipse cx="295.5" cy="35" fill="#AED6F1" rx="12" ry="12" style="stroke:#181818;stroke-width:0.5;"/><polygon fill="#181818" points="291.5,23,297.5,18,295.5,23,297.5,28,291.5,23" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="255" y="385.8613">Coordinator</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="253" y="403.4707">[Part of App]</text><ellipse cx="295.5" cy="422.5469" fill="#AED6F1" rx="12" ry="12" style="stroke:#181818;stroke-width:0.5;"/><polygon fill="#181818" points="291.5,410.5469,297.5,405.5469,295.5,410.5469,297.5,415.5469,291.5,410.5469" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="366" y="65.5332">Crawler</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="348" y="83.1426">[External API]</text><ellipse cx="393" cy="35" fill="#ABEBC6" rx="12" ry="12" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="381" x2="405" y1="49" y2="49"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="366" y="385.8613">Crawler</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="348" y="403.4707">[External API]</text><ellipse cx="393" cy="422.5469" fill="#ABEBC6" rx="12" ry="12" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="381" x2="405" y1="436.5469" y2="436.5469"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="465" y="65.5332">Scraper</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="448" y="83.1426">[External API]</text><ellipse cx="493" cy="35" fill="#ABEBC6" rx="12" ry="12" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="481" x2="505" y1="49" y2="49"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="465" y="385.8613">Scraper</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="448" y="403.4707">[External API]</text><ellipse cx="493" cy="422.5469" fill="#ABEBC6" rx="12" ry="12" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="481" x2="505" y1="436.5469" y2="436.5469"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="65" x="557.5" y="65.5332">Translator</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="548" y="83.1426">[External API]</text><ellipse cx="593" cy="35" fill="#ABEBC6" rx="12" ry="12" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="581" x2="605" y1="49" y2="49"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="65" x="557.5" y="385.8613">Translator</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="548" y="403.4707">[External API]</text><ellipse cx="593" cy="422.5469" fill="#ABEBC6" rx="12" ry="12" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="581" x2="605" y1="436.5469" y2="436.5469"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="676.5" y="65.5332">Database</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="648" y="83.1426">[NoSQL Database]</text><path d="M692,15 C692,5 710,5 710,5 C710,5 728,5 728,15 L728,41 C728,51 710,51 710,51 C710,51 692,51 692,41 L692,15 " fill="#F5B7B1" style="stroke:#181818;stroke-width:1.5;"/><path d="M692,15 C692,25 710,25 710,25 C710,25 728,25 728,15 " fill="none" style="stroke:#181818;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="676.5" y="385.8613">Database</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="648" y="403.4707">[NoSQL Database]</text><path d="M692,416.5469 C692,406.5469 710,406.5469 710,406.5469 C710,406.5469 728,406.5469 728,416.5469 L728,442.5469 C728,452.5469 710,452.5469 710,452.5469 C710,452.5469 692,452.5469 692,442.5469 L692,416.5469 " fill="#F5B7B1" style="stroke:#181818;stroke-width:1.5;"/><path d="M692,416.5469 C692,426.5469 710,426.5469 710,426.5469 C710,426.5469 728,426.5469 728,416.5469 " fill="none" style="stroke:#181818;stroke-width:1.5;"/><polygon fill="#000000" points="381,114.5703,391,118.5703,381,122.5703,385,118.5703" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="295.5" x2="387" y1="118.5703" y2="118.5703"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="302.5" y="113.7139">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="313.5" y="113.7139">Crawling</text><polygon fill="#000000" points="306.5,128.5703,296.5,132.5703,306.5,136.5703,302.5,132.5703" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="300.5" x2="392" y1="132.5703" y2="132.5703"/><polygon fill="#000000" points="199.5,158.9219,189.5,162.9219,199.5,166.9219,195.5,162.9219" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="193.5" x2="294.5" y1="162.9219" y2="162.9219"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="205.5" y="158.0654">2</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="216.5" y="158.0654">Cleaning</text><polygon fill="#000000" points="283.5,172.9219,293.5,176.9219,283.5,180.9219,287.5,176.9219" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="188.5" x2="289.5" y1="176.9219" y2="176.9219"/><polygon fill="#000000" points="481,203.2734,491,207.2734,481,211.2734,485,207.2734" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="295.5" x2="487" y1="207.2734" y2="207.2734"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="302.5" y="202.417">3</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="51" x="313.5" y="202.417">Scraping</text><polygon fill="#000000" points="306.5,217.2734,296.5,221.2734,306.5,225.2734,302.5,221.2734" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="300.5" x2="492" y1="221.2734" y2="221.2734"/><polygon fill="#000000" points="75.5,247.625,65.5,251.625,75.5,255.625,71.5,251.625" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="69.5" x2="294.5" y1="251.625" y2="251.625"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="81.5" y="246.7686">4</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="92.5" y="246.7686">Cleaning</text><polygon fill="#000000" points="283.5,261.625,293.5,265.625,283.5,269.625,287.5,265.625" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="64.5" x2="289.5" y1="265.625" y2="265.625"/><polygon fill="#000000" points="581,291.9766,591,295.9766,581,299.9766,585,295.9766" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="295.5" x2="587" y1="295.9766" y2="295.9766"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="7" x="302.5" y="291.1201">5</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="63" x="313.5" y="291.1201">Translating</text><polygon fill="#000000" points="306.5,305.9766,296.5,309.9766,306.5,313.9766,302.5,309.9766" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="300.5" x2="592" y1="309.9766" y2="309.9766"/><polygon fill="#000000" points="698,336.3281,708,340.3281,698,344.3281,702,340.3281" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="295.5" x2="704" y1="340.3281" y2="340.3281"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="11" x="302.5" y="335.4717">6:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="41" x="317.5" y="335.4717">Update</text><polygon fill="#000000" points="306.5,350.3281,296.5,354.3281,306.5,358.3281,302.5,354.3281" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="300.5" x2="709" y1="354.3281" y2="354.3281"/><!--MD5=[2eec50a3870b560d008a9e1149138125]
+@startuml
+
+' Improved General settings with lighter color coding and black arrows
+skinparam sequence {
+    ArrowColor Black
+    LifeLineBorderColor DarkGray
+    LifeLineBackgroundColor LightYellow
+    ParticipantBorderColor DarkGray
+    ParticipantBackgroundColor LightSkyBlue
+    ParticipantFontName Helvetica
+    ParticipantFontSize 16
+    ParticipantFontColor #3C3F41
+}
+
+' Participants with titles and consistent colors for cleaners
+queue "Scrape Cleaner\n[Part of App]" as ScrapeCleaner #F7DC6F
+queue "Crawl Cleaner\n[Part of App]" as CrawlCleaner #F7DC6F
+control "Coordinator\n[Part of App]" as Coordinator #AED6F1
+entity "Crawler\n[External API]" as Crawler #ABEBC6
+entity "Scraper\n[External API]" as Scraper #ABEBC6
+entity "Translator\n[External API]" as Translator #ABEBC6
+database "Database\n[NoSQL Database]" as DB #F5B7B1
+
+' Sequence with bold numbers for sends
+Coordinator -> Crawler : **1** Crawling
+Crawler - -> Coordinator
+
+Coordinator - -> CrawlCleaner : **2** Cleaning
+CrawlCleaner -> Coordinator
+
+Coordinator -> Scraper : **3** Scraping
+Scraper - -> Coordinator
+
+Coordinator - -> ScrapeCleaner : **4** Cleaning
+ScrapeCleaner - -> Coordinator
+
+Coordinator - -> Translator : **5** Translating
+Translator -> Coordinator
+
+Coordinator -> DB : **6:** Update
+DB - -> Coordinator
+
+@enduml
+
+@startuml
+
+skinparam sequence {
+    ArrowColor Black
+    LifeLineBorderColor DarkGray
+    LifeLineBackgroundColor LightYellow
+    ParticipantBorderColor DarkGray
+    ParticipantBackgroundColor LightSkyBlue
+    ParticipantFontName Helvetica
+    ParticipantFontSize 16
+    ParticipantFontColor #3C3F41
+}
+
+queue "Scrape Cleaner\n[Part of App]" as ScrapeCleaner #F7DC6F
+queue "Crawl Cleaner\n[Part of App]" as CrawlCleaner #F7DC6F
+control "Coordinator\n[Part of App]" as Coordinator #AED6F1
+entity "Crawler\n[External API]" as Crawler #ABEBC6
+entity "Scraper\n[External API]" as Scraper #ABEBC6
+entity "Translator\n[External API]" as Translator #ABEBC6
+database "Database\n[NoSQL Database]" as DB #F5B7B1
+
+Coordinator -> Crawler : **1** Crawling
+Crawler - -> Coordinator
+
+Coordinator - -> CrawlCleaner : **2** Cleaning
+CrawlCleaner -> Coordinator
+
+Coordinator -> Scraper : **3** Scraping
+Scraper - -> Coordinator
+
+Coordinator - -> ScrapeCleaner : **4** Cleaning
+ScrapeCleaner - -> Coordinator
+
+Coordinator - -> Translator : **5** Translating
+Translator -> Coordinator
+
+Coordinator -> DB : **6:** Update
+DB - -> Coordinator
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 10:01:30 PDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

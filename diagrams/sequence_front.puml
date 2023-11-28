@@ -1,0 +1,30 @@
+@startuml
+
+' Improved General settings with lighter color coding and black arrows
+skinparam sequence {
+    ArrowColor Black
+    LifeLineBorderColor DarkGray
+    LifeLineBackgroundColor LightYellow
+    ParticipantBorderColor DarkGray
+    ParticipantBackgroundColor LightSkyBlue
+    ParticipantFontName Helvetica
+    ParticipantFontSize 16
+    ParticipantFontColor #3C3F41
+}
+
+' Participants with titles and lighter colors
+actor "User\n[External Actor]" as User #F7DC6F
+participant "Front End Interface\n[Web Application]" as Frontend #AED6F1
+participant "Application Logic\n[Core Processing]" as AppLogic #ABEBC6
+database "Data Storage\n[NoSQL Database]" as Database #F5B7B1
+
+' Sequence with autonumbering
+autonumber
+User -> Frontend : Initiate User Request
+Frontend -> AppLogic : Process User Request
+AppLogic -> Database : Retrieve Data
+Database --> AppLogic : Return Data
+AppLogic --> Frontend : Send Response
+Frontend --> User : Display Response
+
+@enduml

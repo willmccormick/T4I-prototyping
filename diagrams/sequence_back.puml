@@ -1,0 +1,43 @@
+@startuml
+
+' Improved General settings with lighter color coding and black arrows
+skinparam sequence {
+    ArrowColor Black
+    LifeLineBorderColor DarkGray
+    LifeLineBackgroundColor LightYellow
+    ParticipantBorderColor DarkGray
+    ParticipantBackgroundColor LightSkyBlue
+    ParticipantFontName Helvetica
+    ParticipantFontSize 16
+    ParticipantFontColor #3C3F41
+}
+
+' Participants with titles and consistent colors for cleaners
+queue "Scrape Cleaner\n[Part of App]" as ScrapeCleaner #F7DC6F
+queue "Crawl Cleaner\n[Part of App]" as CrawlCleaner #F7DC6F
+control "Coordinator\n[Part of App]" as Coordinator #AED6F1
+entity "Crawler\n[External API]" as Crawler #ABEBC6
+entity "Scraper\n[External API]" as Scraper #ABEBC6
+entity "Translator\n[External API]" as Translator #ABEBC6
+database "Database\n[NoSQL Database]" as DB #F5B7B1
+
+' Sequence with bold numbers for sends
+Coordinator -> Crawler : **1** Crawling
+Crawler --> Coordinator
+
+Coordinator --> CrawlCleaner : **2** Cleaning
+CrawlCleaner -> Coordinator
+
+Coordinator -> Scraper : **3** Scraping
+Scraper --> Coordinator
+
+Coordinator --> ScrapeCleaner : **4** Cleaning
+ScrapeCleaner --> Coordinator
+
+Coordinator --> Translator : **5** Translating
+Translator -> Coordinator
+
+Coordinator -> DB : **6:** Update
+DB --> Coordinator
+
+@enduml

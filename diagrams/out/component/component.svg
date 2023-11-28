@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="997px" preserveAspectRatio="none" style="width:1428px;height:997px;background:#FFFFFF;" version="1.1" viewBox="0 0 1428 997" width="1428px" zoomAndPan="magnify"><defs/><g><!--MD5=[6a33f5aba65c2db052b5b3acf4edee36]
+cluster App - Tech4Refugees&Immigrants--><g id="cluster_App - Tech4Refugees&amp;Immigrants"><path d="M13.5,6 L218.5,6 A11.25,11.25 0 0 1 226,13.5 L233,28.4131 L1252.5,28.4131 A7.5,7.5 0 0 1 1260,35.9131 L1260,891 A7.5,7.5 0 0 1 1252.5,898.5 L13.5,898.5 A7.5,7.5 0 0 1 6,891 L6,13.5 A7.5,7.5 0 0 1 13.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="233" y1="28.4131" y2="28.4131"/><text fill="#000000" font-family="Cambria" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="214" x="10" y="21.3027">App - Tech4Refugees&amp;Immigrants</text></g><!--MD5=[fca8240bc233c06068545f9c8883ae88]
+cluster Frontend--><g id="cluster_Frontend"><path d="M695.5,49 L744.5,49 A11.25,11.25 0 0 1 752,56.5 L759,71.4131 L1185.5,71.4131 A7.5,7.5 0 0 1 1193,78.9131 L1193,153.5 A7.5,7.5 0 0 1 1185.5,161 L695.5,161 A7.5,7.5 0 0 1 688,153.5 L688,56.5 A7.5,7.5 0 0 1 695.5,49 " fill="#FFFFE0" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="688" x2="759" y1="71.4131" y2="71.4131"/><text fill="#000000" font-family="Cambria" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="58" x="692" y="64.3027">Frontend</text></g><!--MD5=[f7988a0aa31c1bbf34b4621771dd39c9]
+cluster Dynamic Webscraping--><g id="cluster_Dynamic Webscraping"><path d="M37.5,239.5 L169.5,239.5 A11.25,11.25 0 0 1 177,247 L184,261.9131 L1228.5,261.9131 A7.5,7.5 0 0 1 1236,269.4131 L1236,867 A7.5,7.5 0 0 1 1228.5,874.5 L37.5,874.5 A7.5,7.5 0 0 1 30,867 L30,247 A7.5,7.5 0 0 1 37.5,239.5 " fill="#90EE90" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="30" x2="184" y1="261.9131" y2="261.9131"/><text fill="#000000" font-family="Cambria" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="141" x="34" y="254.8027">Dynamic Webscraping</text></g><!--MD5=[a39bd3dc1b32821cd5211df32b2be8dd]
+cluster Coordinators--><g id="cluster_Coordinators"><path d="M595.5,291 L669.5,291 A11.25,11.25 0 0 1 677,298.5 L684,313.4131 L760.5,313.4131 A7.5,7.5 0 0 1 768,320.9131 L768,544 A7.5,7.5 0 0 1 760.5,551.5 L595.5,551.5 A7.5,7.5 0 0 1 588,544 L588,298.5 A7.5,7.5 0 0 1 595.5,291 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="588" x2="684" y1="313.4131" y2="313.4131"/><text fill="#000000" font-family="Cambria" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="83" x="592" y="306.3027">Coordinators</text></g><!--MD5=[93300fbf2e04cab6e2e60f9ca8e92cc0]
+cluster Crawling--><g id="cluster_Crawling"><path d="M61.5,600.5 L108.5,600.5 A11.25,11.25 0 0 1 116,608 L123,622.9131 L409.5,622.9131 A7.5,7.5 0 0 1 417,630.4131 L417,843 A7.5,7.5 0 0 1 409.5,850.5 L61.5,850.5 A7.5,7.5 0 0 1 54,843 L54,608 A7.5,7.5 0 0 1 61.5,600.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="54" x2="123" y1="622.9131" y2="622.9131"/><text fill="#000000" font-family="Cambria" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="56" x="58" y="615.8027">Crawling</text></g><!--MD5=[0d2275527dd2e17ce751fa2d4091a0da]
+cluster Scraping--><g id="cluster_Scraping"><path d="M448.5,600.5 L494.5,600.5 A11.25,11.25 0 0 1 502,608 L509,622.9131 L788.5,622.9131 A7.5,7.5 0 0 1 796,630.4131 L796,843 A7.5,7.5 0 0 1 788.5,850.5 L448.5,850.5 A7.5,7.5 0 0 1 441,843 L441,608 A7.5,7.5 0 0 1 448.5,600.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="441" x2="509" y1="622.9131" y2="622.9131"/><text fill="#000000" font-family="Cambria" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="55" x="445" y="615.8027">Scraping</text></g><!--MD5=[382809b1ea82b38a865d7566f2a7d88f]
+cluster Translation--><g id="cluster_Translation"><path d="M827.5,600.5 L892.5,600.5 A11.25,11.25 0 0 1 900,608 L907,622.9131 L1204.5,622.9131 A7.5,7.5 0 0 1 1212,630.4131 L1212,843 A7.5,7.5 0 0 1 1204.5,850.5 L827.5,850.5 A7.5,7.5 0 0 1 820,843 L820,608 A7.5,7.5 0 0 1 827.5,600.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="820" x2="907" y1="622.9131" y2="622.9131"/><text fill="#000000" font-family="Cambria" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="74" x="824" y="615.8027">Translation</text></g><!--MD5=[1a2f5e2d60edc00fa445248e69448848]
+cluster Cleaners--><g id="cluster_Cleaners"><path d="M124.5,282.5 L169.5,282.5 A11.25,11.25 0 0 1 177,290 L184,304.9131 L556.5,304.9131 A7.5,7.5 0 0 1 564,312.4131 L564,404 A7.5,7.5 0 0 1 556.5,411.5 L124.5,411.5 A7.5,7.5 0 0 1 117,404 L117,290 A7.5,7.5 0 0 1 124.5,282.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="117" x2="184" y1="304.9131" y2="304.9131"/><text fill="#000000" font-family="Cambria" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="54" x="121" y="297.8027">Cleaners</text></g><g id="elem_DB"><rect fill="#FFAAAA" height="61.2393" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="160" x="403" y="84"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="56" x="455" y="99.3027">Database</text><line style="stroke:#181818;stroke-width:0.5;" x1="404" x2="562" y1="104.4131" y2="104.4131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="122" x="409" y="121.7158">Stores and retrieves</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="148" x="409" y="138.1289">site &amp; social service data</text></g><g id="elem_Logging"><rect fill="#ADD8E6" height="94.0654" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="124" x="185" y="67.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="95" x="199.5" y="82.8027">Logging Service</text><line style="stroke:#181818;stroke-width:0.5;" x1="186" x2="308" y1="87.9131" y2="87.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="92" x="191" y="105.2158">Logs all system</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="110" x="191" y="121.6289">events and errors,</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="112" x="191" y="138.042">connects to almost</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="92" x="191" y="154.4551">all components</text></g><g id="elem_UserUILogic"><rect fill="#FFFFE0" height="61.2393" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="230" x="947" y="84"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="49" x="1037.5" y="99.3027">UI Logic</text><line style="stroke:#181818;stroke-width:0.5;" x1="948" x2="1176" y1="104.4131" y2="104.4131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="162" x="953" y="121.7158">Manages user interactions,</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="218" x="953" y="138.1289">forwards requests to Business Logic</text></g><g id="elem_UserBL"><rect fill="#FFFFE0" height="61.2393" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="160" x="704" y="84"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="89" x="739.5" y="99.3027">Business Logic</text><line style="stroke:#181818;stroke-width:0.5;" x1="705" x2="863" y1="104.4131" y2="104.4131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="148" x="710" y="121.7158">Processes user requests,</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="144" x="710" y="138.1289">interacts with Database</text></g><g id="elem_Timer"><rect fill="#90EE90" height="61.2393" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="135" x="604.5" y="326"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="37" x="653.5" y="341.3027">Timer</text><line style="stroke:#181818;stroke-width:0.5;" x1="605.5" x2="738.5" y1="346.4131" y2="346.4131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="123" x="610.5" y="363.7158">Invokes Coordinator</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="93" x="610.5" y="380.1289">on set intervals</text></g><g id="elem_Coordinator"><rect fill="#90EE90" height="61.2393" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="147" x="604.5" y="474.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="73" x="641.5" y="489.8027">Coordinator</text><line style="stroke:#181818;stroke-width:0.5;" x1="605.5" x2="750.5" y1="494.9131" y2="494.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="135" x="610.5" y="512.2158">Invokes the logic units</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="117" x="610.5" y="528.6289">as per the schedule</text></g><g id="elem_CrawlingLogic"><rect fill="#90EE90" height="61.2393" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="137" x="70.5" y="635.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="90" x="94" y="650.8027">Crawling Logic</text><line style="stroke:#181818;stroke-width:0.5;" x1="71.5" x2="206.5" y1="655.9131" y2="655.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="125" x="76.5" y="673.2158">Invokes and controls</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="125" x="76.5" y="689.6289">the crawling process</text></g><g id="elem_CrawlingError"><rect fill="#90EE90" height="61.2393" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="158" x="243" y="635.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="144" x="250" y="650.8027">Crawling Error Handler</text><line style="stroke:#181818;stroke-width:0.5;" x1="244" x2="400" y1="655.9131" y2="655.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="135" x="249" y="673.2158">Handles errors during</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="125" x="249" y="689.6289">the crawling process</text></g><g id="elem_CrawlerInterface"><rect fill="#90EE90" height="61.2393" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="139" x="136.5" y="773.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="107" x="152.5" y="788.8027">Crawler Interface</text><line style="stroke:#181818;stroke-width:0.5;" x1="137.5" x2="274.5" y1="793.9131" y2="793.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="127" x="142.5" y="811.2158">Internal interface for</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="127" x="142.5" y="827.6289">invoking crawler API</text></g><g id="elem_ScrapingLogic"><rect fill="#90EE90" height="61.2393" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="137" x="457.5" y="635.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="85" x="483.5" y="650.8027">ScrapingLogic</text><line style="stroke:#181818;stroke-width:0.5;" x1="458.5" x2="593.5" y1="655.9131" y2="655.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="125" x="463.5" y="673.2158">Invokes and controls</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="124" x="463.5" y="689.6289">the scraping process</text></g><g id="elem_ScrapingError"><rect fill="#90EE90" height="61.2393" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="150" x="630" y="635.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="136" x="637" y="650.8027">ScrapingErrorHandler</text><line style="stroke:#181818;stroke-width:0.5;" x1="631" x2="779" y1="655.9131" y2="655.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="135" x="636" y="673.2158">Handles errors during</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="124" x="636" y="689.6289">the scraping process</text></g><g id="elem_ScraperInterface"><rect fill="#90EE90" height="61.2393" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="139" x="520.5" y="773.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="105" x="537.5" y="788.8027">Scraper Interface</text><line style="stroke:#181818;stroke-width:0.5;" x1="521.5" x2="658.5" y1="793.9131" y2="793.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="127" x="526.5" y="811.2158">Internal interface for</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="126" x="526.5" y="827.6289">invoking scraper API</text></g><g id="elem_TranslationLogic"><rect fill="#90EE90" height="61.2393" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="151" x="836.5" y="635.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="105" x="859.5" y="650.8027">Translation Logic</text><line style="stroke:#181818;stroke-width:0.5;" x1="837.5" x2="986.5" y1="655.9131" y2="655.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="125" x="842.5" y="673.2158">Invokes and controls</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="139" x="842.5" y="689.6289">the translation process</text></g><g id="elem_TranslationError"><rect fill="#90EE90" height="61.2393" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="173" x="1022.5" y="635.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="159" x="1029.5" y="650.8027">Translation Error Handler</text><line style="stroke:#181818;stroke-width:0.5;" x1="1023.5" x2="1194.5" y1="655.9131" y2="655.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="135" x="1028.5" y="673.2158">Handles errors during</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="139" x="1028.5" y="689.6289">the translation process</text></g><g id="elem_TranslatorInterface"><rect fill="#90EE90" height="61.2393" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="153" x="905.5" y="773.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="122" x="921" y="788.8027">Translator Interface</text><line style="stroke:#181818;stroke-width:0.5;" x1="906.5" x2="1057.5" y1="793.9131" y2="793.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="127" x="911.5" y="811.2158">Internal interface for</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="141" x="911.5" y="827.6289">invoking translator API</text></g><g id="elem_CrawlerCleaner"><rect fill="#90EE90" height="77.6523" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="182" x="366" y="317.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="168" x="373" y="332.8027">Crawler-to-Scraper Cleaner</text><line style="stroke:#181818;stroke-width:0.5;" x1="367" x2="547" y1="337.9131" y2="337.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="146" x="372" y="355.2158">Cleans and formats data</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="161" x="372" y="371.6289">from CrawlingLogic before</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="149" x="372" y="388.042">passing to ScrapingLogic</text></g><g id="elem_ScraperCleaner"><rect fill="#90EE90" height="77.6523" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="197" x="133.5" y="317.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="183" x="140.5" y="332.8027">Scraper-to-Translator Cleaner</text><line style="stroke:#181818;stroke-width:0.5;" x1="134.5" x2="329.5" y1="337.9131" y2="337.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="146" x="139.5" y="355.2158">Cleans and formats data</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="159" x="139.5" y="371.6289">from ScrapingLogic before</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="166" x="139.5" y="388.042">passing to TranslationLogic</text></g><g id="elem_User"><rect fill="#F1F1F1" height="77.6523" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="145" x="1276.5" y="75.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="28" x="1335" y="90.8027">User</text><line style="stroke:#181818;stroke-width:0.5;" x1="1277.5" x2="1420.5" y1="95.9131" y2="95.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="126" x="1282.5" y="113.2158">Interacts with the UI</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="133" x="1282.5" y="129.6289">to find Social Services,</text><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="130" x="1282.5" y="146.042">Get Help, or find Stuff</text></g><g id="elem_CrawlerAPI"><rect fill="#F1F1F1" height="44.8262" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="166" x="123" y="945.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="74" x="169" y="960.8027">Crawler API</text><line style="stroke:#181818;stroke-width:0.5;" x1="124" x2="288" y1="965.9131" y2="965.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="154" x="129" y="983.2158">External crawling service</text></g><g id="elem_ScraperAPI"><rect fill="#F1F1F1" height="44.8262" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="165" x="507.5" y="945.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="72" x="554" y="960.8027">Scraper API</text><line style="stroke:#181818;stroke-width:0.5;" x1="508.5" x2="671.5" y1="965.9131" y2="965.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="153" x="513.5" y="983.2158">External scraping service</text></g><g id="elem_TranslatorAPI"><rect fill="#F1F1F1" height="44.8262" rx="7.5" ry="7.5" style="stroke:#181818;stroke-width:0.5;" width="180" x="892" y="945.5"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="89" x="937.5" y="960.8027">Translator API</text><line style="stroke:#181818;stroke-width:0.5;" x1="893" x2="1071" y1="965.9131" y2="965.9131"/><text fill="#000000" font-family="Cambria" font-size="14" lengthAdjust="spacing" textLength="168" x="898" y="983.2158">External translation service</text></g><!--MD5=[2859157ac11a694e56ab123f6fc6fa1f]
+reverse link UserUILogic to User--><g id="link_UserUILogic_User"><path codeLine="206" d="M1182.2,114.5 C1214.22,114.5 1247.82,114.5 1276.41,114.5 " fill="none" id="UserUILogic-backto-User" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1177.08,114.5,1186.08,118.5,1182.08,114.5,1186.08,110.5,1177.08,114.5" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="36" x="1208.75" y="107.8525">Req UI</text></g><!--MD5=[ac9e9196cc8f01e29cb78c37af620c53]
+reverse link UserBL to UserUILogic--><g id="link_UserBL_UserUILogic"><path codeLine="207" d="M869.22,114.5 C893.73,114.5 920.87,114.5 946.86,114.5 " fill="none" id="UserBL-backto-UserUILogic" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="864.04,114.5,873.04,118.5,869.04,114.5,873.04,110.5,864.04,114.5" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="46" x="882.5" y="107.8525">Req Info</text></g><!--MD5=[db18fd5c1c2934e50e4e0ce460b92cfb]
+reverse link DB to UserBL--><g id="link_DB_UserBL"><path codeLine="208" d="M568.41,114.5 C610.98,114.5 662.15,114.5 703.96,114.5 " fill="none" id="DB-backto-UserBL" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="563.27,114.5,572.27,118.5,568.27,114.5,572.27,110.5,563.27,114.5" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="49" x="609" y="107.8525">Req Data</text></g><!--MD5=[4bb1f2c7141f0a0b3fcb8787a62b9359]
+link Timer to Coordinator--><g id="link_Timer_Coordinator"><path codeLine="217" d="M666.83,387.33 C664.61,404.15 662.95,425.52 665,444.5 C665.87,452.6 667.4,461.21 669.1,469.29 " fill="none" id="Timer-to-Coordinator" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="670.18,474.24,672.1593,464.5921,669.109,469.3561,664.345,466.3057,670.18,474.24" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="85" x="666" y="440.8525">Schedule Tasks</text></g><!--MD5=[4608c4a8954699189748f036b7ce7ec0]
+link Coordinator to CrawlingLogic--><g id="link_Coordinator_CrawlingLogic"><path codeLine="220" d="M604.47,508.82 C512.03,514.83 350.4,533.64 226,592.5 C205.68,602.11 186.16,617.6 170.78,631.79 " fill="none" id="Coordinator-to-CrawlingLogic" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="166.96,635.37,176.2616,632.1327,170.6077,631.9503,170.7901,626.2964,166.96,635.37" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="110" x="284" y="580.8525">(1) Invoke Crawling</text></g><!--MD5=[0bab50fc99fc887657e750a48fe46e98]
+link Coordinator to ScrapingLogic--><g id="link_Coordinator_ScrapingLogic"><path codeLine="221" d="M604.42,534.61 C588.85,543.32 573.63,554.2 562,567.5 C546.56,585.16 537.52,610.02 532.36,630.22 " fill="none" id="Coordinator-to-ScrapingLogic" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="531.13,635.25,537.1719,627.4721,532.3292,630.3959,529.4054,625.5533,531.13,635.25" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="108" x="563" y="580.8525">(2) Invoke Scraping</text></g><!--MD5=[2fa40b75153bd585ee52f3f6d3b37fd1]
+link Coordinator to TranslationLogic--><g id="link_Coordinator_TranslationLogic"><path codeLine="222" d="M721.47,535.53 C761.97,563.06 822.25,604.02 864.12,632.47 " fill="none" id="Coordinator-to-TranslationLogic" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="868.37,635.35,863.1864,626.9756,864.2386,632.5338,858.6804,633.5859,868.37,635.35" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="119" x="788" y="580.8525">(3) Invoke Translator</text></g><!--MD5=[4d03dd9ac81db7b79532b08d508a0104]
+reverse link CrawlerCleaner to Coordinator--><g id="link_CrawlerCleaner_Coordinator"><path codeLine="225" d="M479.6,400.19 C489.63,415.86 502.65,432.65 518,444.5 C543.21,463.97 575.47,477.59 604.4,486.82 " fill="none" id="CrawlerCleaner-backto-Coordinator" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="476.85,395.8,478.2368,405.5507,479.5038,400.0376,485.017,401.3046,476.85,395.8" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="136" x="519" y="440.8525">(1.5) Clean Crawled Data</text></g><!--MD5=[e2532e5395e3d0420ec5bcdfeb3ef96e]
+reverse link ScraperCleaner to Coordinator--><g id="link_ScraperCleaner_Coordinator"><path codeLine="226" d="M280.76,398.69 C302.78,415.3 329.9,433.18 357,444.5 C437.67,478.2 537.67,492.89 604.41,499.24 " fill="none" id="ScraperCleaner-backto-Coordinator" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="276.71,395.6,281.4559,404.23,280.6911,398.6251,286.296,397.8602,276.71,395.6" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="134" x="358" y="440.8525">(2.5) Clean Scraped Data</text></g><!--MD5=[882eeda21119ce5afb9959e6ead1dfbd]
+link Coordinator to DB--><g id="link_Coordinator_DB"><path codeLine="227" d="M734.02,474.45 C744.49,466.23 754.01,456.25 760,444.5 C803.01,360.16 809.9,310.02 757,231.5 C714.88,168.97 631.73,140.04 568.02,126.71 " fill="none" id="Coordinator-to-DB" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="563.08,125.7,571.0984,131.4189,567.979,126.6998,572.6981,123.5804,563.08,125.7" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="149" x="795" y="361.3525">(3.5) Enter Translated Data</text></g><!--MD5=[d046d3e9d4515a7c5b56a2ed3476c88b]
+reverse link DB to CrawlerCleaner--><g id="link_DB_CrawlerCleaner"><path codeLine="230" d="M479.22,150.4 C474.41,194.83 466.12,271.32 461.14,317.28 " fill="none" id="DB-backto-CrawlerCleaner" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="479.76,145.41,474.8067,153.9226,479.2172,150.3805,482.7594,154.791,479.76,145.41" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="31" x="486.5" y="204.8525">Cross</text><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="54" x="475" y="220.0933">Reference</text></g><!--MD5=[1201840760c0f191b08a3de3b7bbad1e]
+reverse link DB to ScraperCleaner--><g id="link_DB_ScraperCleaner"><path codeLine="231" d="M442.94,148.36 C415.81,171.05 379.49,202.28 349,231.5 C320.04,259.24 288.96,292.36 266.12,317.38 " fill="none" id="DB-backto-ScraperCleaner" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="446.87,145.08,437.3943,147.7653,443.0277,148.2795,442.5135,153.913,446.87,145.08" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="31" x="404.5" y="204.8525">Cross</text><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="54" x="393" y="220.0933">Reference</text></g><!--MD5=[68b86897bb91f506d59a38611c5d3f57]
+link ScrapingLogic to ScraperInterface--><g id="link_ScrapingLogic_ScraperInterface"><path codeLine="237" d="M507.28,696.76 C500.58,711.38 496.37,728.93 504,743.5 C509.38,753.77 517.43,762.62 526.49,770.12 " fill="none" id="ScrapingLogic-to-ScraperInterface" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="530.42,773.25,525.8676,764.5164,526.5073,770.137,520.8867,770.7767,530.42,773.25" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="104" x="505" y="739.8525">Invoke Scraper API</text></g><!--MD5=[de79a722a4a8250868ca865fec9c5868]
+link TranslationLogic to TranslatorInterface--><g id="link_TranslationLogic_TranslatorInterface"><path codeLine="238" d="M890.66,696.75 C882.93,711.36 877.88,728.92 886,743.5 C891.84,753.99 900.38,762.87 910,770.31 " fill="none" id="TranslationLogic-to-TranslatorInterface" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="914.18,773.41,909.3311,764.8375,910.163,770.4328,904.5676,771.2647,914.18,773.41" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="121" x="887" y="739.8525">Invoke Translator API</text></g><!--MD5=[ddfc3342b766da49091533ed0e078b5a]
+link CrawlingLogic to CrawlerInterface--><g id="link_CrawlingLogic_CrawlerInterface"><path codeLine="239" d="M122.76,696.54 C116.92,711.26 113.44,728.98 121,743.5 C126.39,753.85 134.49,762.76 143.58,770.32 " fill="none" id="CrawlingLogic-to-CrawlerInterface" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="147.54,773.47,143.0071,764.7263,143.6343,770.3483,138.0123,770.9755,147.54,773.47" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="106" x="122" y="739.8525">Invoke Crawler API</text></g><!--MD5=[ddf197b16902e72b649f1fe99498e85d]
+reverse link ScrapingError to ScraperInterface--><g id="link_ScrapingError_ScraperInterface"><path codeLine="245" d="M676.61,700.58 C657.83,722.79 633.42,751.65 615.3,773.08 " fill="none" id="ScrapingError-backto-ScraperInterface" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="680.05,696.51,671.1823,700.7952,676.8196,700.3264,677.2885,705.9638,680.05,696.51" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="125" x="655" y="739.8525">Report Scraping Errors</text></g><!--MD5=[aaac06294459b0d006552f9ab3b2189c]
+reverse link TranslationError to TranslatorInterface--><g id="link_TranslationError_TranslatorInterface"><path codeLine="246" d="M1077.9,700.3 C1057.13,722.55 1030.03,751.56 1009.94,773.08 " fill="none" id="TranslationError-backto-TranslatorInterface" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1081.44,696.51,1072.3744,700.359,1078.0279,700.1648,1078.2221,705.8183,1081.44,696.51" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="142" x="1054" y="739.8525">Report Translation Errors</text></g><!--MD5=[b143093ecab71e9b519b5ff37a30675e]
+reverse link CrawlingError to CrawlerInterface--><g id="link_CrawlingError_CrawlerInterface"><path codeLine="247" d="M293.36,700.58 C274.42,722.79 249.8,751.65 231.52,773.08 " fill="none" id="CrawlingError-backto-CrawlerInterface" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="296.83,696.51,287.9529,700.7759,293.5913,700.3193,294.0479,705.9577,296.83,696.51" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="127" x="271" y="739.8525">Report Crawling Errors</text></g><!--MD5=[9060206d433d2dbbc3f8ec143f50bfba]
+link ScraperInterface to ScraperAPI--><g id="link_ScraperInterface_ScraperAPI"><path codeLine="253" d="M590,834.71 C590,864.81 590,910.96 590,940.03 " fill="none" id="ScraperInterface-to-ScraperAPI" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="590,945.25,594,936.25,590,940.25,586,936.25,590,945.25" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[870a4cca8c06bf5ef56801ac07162acf]
+link TranslatorInterface to TranslatorAPI--><g id="link_TranslatorInterface_TranslatorAPI"><path codeLine="254" d="M982,834.71 C982,864.81 982,910.96 982,940.03 " fill="none" id="TranslatorInterface-to-TranslatorAPI" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="982,945.25,986,936.25,982,940.25,978,936.25,982,945.25" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[08ec737b42902bb964c8b8fa9e63e887]
+link CrawlerInterface to CrawlerAPI--><g id="link_CrawlerInterface_CrawlerAPI"><path codeLine="255" d="M206,834.71 C206,864.81 206,910.96 206,940.03 " fill="none" id="CrawlerInterface-to-CrawlerAPI" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="206,945.25,210,936.25,206,940.25,202,936.25,206,945.25" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c8ab2f0ff053cf1ff6557fef8bddb3f8]
+link Logging to DB--><g id="link_Logging_DB"><path codeLine="275" d="M309.01,114.5 C336.12,114.5 368.36,114.5 397.68,114.5 " fill="none" id="Logging-to-DB" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="402.74,114.5,393.74,110.5,397.74,114.5,393.74,118.5,402.74,114.5" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="Cambria" font-size="13" lengthAdjust="spacing" textLength="57" x="327.5" y="107.8525">Store Logs</text></g><!--MD5=[eac1b284872592554a3c2d007e08c6c4]
+@startuml
+
+' Set skin for a prettier look
+skinparam roundcorner 15
+skinparam classFontColor #2C3E50
+skinparam classBackgroundColor #ECF0F1
+skinparam classBorderColor #2980B9
+skinparam DefaultFontName Cambria
+
+
+
+' User Segment
+object "User" as User {
+  Interacts with the UI
+  to find Social Services, 
+  Get Help, or find Stuff
+}
+
+' object "Volenteer" as Vol {
+'   Interacts with the UI
+'   to give help
+' }
+
+' App Segment
+package "App - Tech4Refugees&Immigrants" {
+
+  package "Frontend" #LightYellow {
+    object "UI Logic" as UserUILogic #LightYellow {
+      Manages user interactions,
+      forwards requests to Business Logic
+    }
+    object "Business Logic" as UserBL #LightYellow {
+      Processes user requests,
+      interacts with Database
+    }
+  }
+
+  ' package "Frontend - Volenteer" {
+  '   object "Volenteer UI Logic" as VolUILogic {
+  '     Manages volenteer interactions,
+  '     forwards requests to Business Logic
+  '   }
+  '   object "Volenteer Business Logic" as VolBL {
+  '     Processes user volenteer requests,
+  '     interacts with Database and 
+  '     support services
+  '   }
+  ' }
+
+  object "Database" as DB #FFAAAA {
+    Stores and retrieves
+    site & social service data
+  }
+
+  package "Dynamic Webscraping" #LightGreen {
+
+    package "Coordinators" {
+      object "Timer" as Timer #LightGreen{
+        Invokes Coordinator
+        on set intervals
+      }
+      object "Coordinator" as Coordinator #LightGreen {
+        Invokes the logic units
+        as per the schedule
+      }
+    }
+
+    package "Crawling" {
+      object "Crawling Logic" as CrawlingLogic #LightGreen {
+        Invokes and controls
+        the crawling process
+      }
+      object "Crawling Error Handler" as CrawlingError #LightGreen {
+        Handles errors during
+        the crawling process
+      }
+      object "Crawler Interface" as CrawlerInterface #LightGreen {
+        Internal interface for
+        invoking crawler API
+      }
+    }
+
+    package "Scraping" {
+      object "ScrapingLogic" as ScrapingLogic #LightGreen {
+        Invokes and controls
+        the scraping process
+      }
+      object "ScrapingErrorHandler" as ScrapingError #LightGreen {
+        Handles errors during
+        the scraping process
+      }
+      object "Scraper Interface" as ScraperInterface #LightGreen {
+        Internal interface for
+        invoking scraper API
+      }
+    }
+
+    package "Translation" {
+      object "Translation Logic" as TranslationLogic #LightGreen {
+        Invokes and controls
+        the translation process
+      }
+      object "Translation Error Handler" as TranslationError #LightGreen {
+        Handles errors during
+        the translation process
+      }
+      object "Translator Interface" as TranslatorInterface #LightGreen {
+        Internal interface for
+        invoking translator API
+      }
+    }
+
+    package "Cleaners" {
+      object "Crawler-to-Scraper Cleaner" as CrawlerCleaner #LightGreen {
+        Cleans and formats data
+        from CrawlingLogic before
+        passing to ScrapingLogic
+      }
+
+      object "Scraper-to-Translator Cleaner" as ScraperCleaner #LightGreen {
+        Cleans and formats data
+        from ScrapingLogic before
+        passing to TranslationLogic
+      }
+    }
+
+  }
+
+  ' package "Calling Service" {
+  '   object "Calling Logic" as CallingLogic {
+  '     Invokes and controls
+  '     the WhatsApp Logic
+  '   }
+  '   object "Calling Error Handler" as CallingError {
+  '     Handles errors  during
+  '     the WhatsApp
+  '   }
+  '   object "Calling Interface" as CallingInterface {
+  '     Internal interface for
+  '     invoking crawler API
+  '   }
+  ' }
+
+  ' package "Marketplace Service" {
+  '   object "Marketplace Logic" as MarketplaceLogic {
+  '     Invokes and controls
+  '     the Marketplace transactions
+  '   }
+  '   object "Marketplace Error Handler" as MarketplaceError {
+  '     Handles errors during
+  '     the Marketplace operations
+  '   }
+  '   object "Marketplace Interface" as MarketplaceInterface {
+  '     Internal interface for
+  '     invoking Marketplace API
+  '   }
+  ' }
+
+  ' package "Forum Service" {
+  '   object "Forum Logic" as ForumLogic {
+  '     Invokes and controls
+  '     the Forum interactions
+  '   }
+  '   object "Forum Error Handler" as ForumError {
+  '     Handles errors during
+  '     the Forum communications
+  '   }
+  '   object "Forum Interface" as ForumInterface {
+  '     Internal interface for
+  '     invoking Forum API
+  '   }
+  ' }
+
+  
+  object "Logging Service" as Logging #LightBlue {
+    Logs all system 
+    events and errors, 
+    connects to almost
+    all components
+  }
+  
+
+}
+
+' External APIs
+object "Crawler API" as CrawlerAPI {
+  External crawling service
+}
+object "Scraper API" as ScraperAPI {
+  External scraping service
+}
+object "Translator API" as TranslatorAPI {
+  External translation service
+}
+
+' object "WhatsApp API" as WhatsAppAPI {
+'   External connection to whatsApp
+' }
+' object "Marketplace API" as MarketplaceAPI{
+'   External marketplace service
+' }
+' object "Forum API" as ForumAPI{
+'   External forum service
+' } 
+
+'Interaction Flow for User
+User -left-> UserUILogic : Req UI
+UserUILogic -left-> UserBL : Req Info
+UserBL -left-> DB : Req Data
+
+'Interaction Flow for Vol
+' Vol - -> VolUILogic : Req UI
+' VolUILogic - -> VolBL : Req Info
+' VolBL - -> DB : Req Data
+
+' - - - Webscraping - - -
+'Timer to Task Manager
+Timer - -> Coordinator : Schedule Tasks
+
+' Task Manager to Logic Units
+Coordinator -down-> CrawlingLogic : (1) Invoke Crawling
+Coordinator -down-> ScrapingLogic : (2) Invoke Scraping
+Coordinator -down-> TranslationLogic : (3) Invoke Translator
+
+'Task Manager to Data Cleaners then DB
+Coordinator -up-> CrawlerCleaner : (1.5) Clean Crawled Data
+Coordinator -up-> ScraperCleaner : (2.5) Clean Scraped Data
+Coordinator -right-> DB : (3.5) Enter Translated Data
+
+'Cleaners to Database
+CrawlerCleaner -up-> DB : Cross\nReference
+ScraperCleaner -up-> DB : Cross\nReference
+' - - - Webscraping - - -
+
+' - - intrapackage - - -
+
+' Logic Units to Internal API Interfaces
+ScrapingLogic - -> ScraperInterface : Invoke Scraper API
+TranslationLogic - -> TranslatorInterface : Invoke Translator API
+CrawlingLogic - -> CrawlerInterface : Invoke Crawler API
+' CallingLogic - -> CallingInterface : Invoke WhatsApp API
+' MarketplaceLogic - -> MarketplaceInterface : Invoke Marketplace API
+' ForumLogic - -> ForumInterface : Invoke Forum API
+
+' Internal API Interfaces to Error Handling
+ScraperInterface -up-> ScrapingError : Report Scraping Errors
+TranslatorInterface -up-> TranslationError : Report Translation Errors
+CrawlerInterface -up-> CrawlingError : Report Crawling Errors
+' CallingInterface -up-> CallingError : Report Calling Errors
+' MarketplaceInterface -up-> MarketplaceError : Report Marketplace Errors
+' ForumInterface -up-> ForumError : Report Forum Errors
+
+' Internal Interfaces to External APIs
+ScraperInterface - -> ScraperAPI 
+TranslatorInterface - -> TranslatorAPI 
+CrawlerInterface - -> CrawlerAPI 
+' CallingInterface - -> WhatsAppAPI
+' MarketplaceInterface - -> MarketplaceAPI
+' ForumInterface - -> ForumAPI
+
+
+
+' - - intrapackage - - -
+
+' UserBL - -> CallingLogic : Start Call
+' VolBL - -> CallingLogic : Start Call
+' DB - -> CallingLogic : Contact info
+
+' UserBL - -> ForumLogic : Go to Forum
+' DB - -> ForumLogic : Forum Info
+
+' UserBL - -> MarketplaceLogic : Start Call
+' DB - -> MarketplaceLogic : Contact info
+
+' Database Interactions
+Logging -right-> DB : Store Logs
+
+@enduml
+
+@startuml
+
+skinparam roundcorner 15
+skinparam classFontColor #2C3E50
+skinparam classBackgroundColor #ECF0F1
+skinparam classBorderColor #2980B9
+skinparam DefaultFontName Cambria
+
+
+
+object "User" as User {
+  Interacts with the UI
+  to find Social Services, 
+  Get Help, or find Stuff
+}
+
+
+package "App - Tech4Refugees&Immigrants" {
+
+  package "Frontend" #LightYellow {
+    object "UI Logic" as UserUILogic #LightYellow {
+      Manages user interactions,
+      forwards requests to Business Logic
+    }
+    object "Business Logic" as UserBL #LightYellow {
+      Processes user requests,
+      interacts with Database
+    }
+  }
+
+
+  object "Database" as DB #FFAAAA {
+    Stores and retrieves
+    site & social service data
+  }
+
+  package "Dynamic Webscraping" #LightGreen {
+
+    package "Coordinators" {
+      object "Timer" as Timer #LightGreen{
+        Invokes Coordinator
+        on set intervals
+      }
+      object "Coordinator" as Coordinator #LightGreen {
+        Invokes the logic units
+        as per the schedule
+      }
+    }
+
+    package "Crawling" {
+      object "Crawling Logic" as CrawlingLogic #LightGreen {
+        Invokes and controls
+        the crawling process
+      }
+      object "Crawling Error Handler" as CrawlingError #LightGreen {
+        Handles errors during
+        the crawling process
+      }
+      object "Crawler Interface" as CrawlerInterface #LightGreen {
+        Internal interface for
+        invoking crawler API
+      }
+    }
+
+    package "Scraping" {
+      object "ScrapingLogic" as ScrapingLogic #LightGreen {
+        Invokes and controls
+        the scraping process
+      }
+      object "ScrapingErrorHandler" as ScrapingError #LightGreen {
+        Handles errors during
+        the scraping process
+      }
+      object "Scraper Interface" as ScraperInterface #LightGreen {
+        Internal interface for
+        invoking scraper API
+      }
+    }
+
+    package "Translation" {
+      object "Translation Logic" as TranslationLogic #LightGreen {
+        Invokes and controls
+        the translation process
+      }
+      object "Translation Error Handler" as TranslationError #LightGreen {
+        Handles errors during
+        the translation process
+      }
+      object "Translator Interface" as TranslatorInterface #LightGreen {
+        Internal interface for
+        invoking translator API
+      }
+    }
+
+    package "Cleaners" {
+      object "Crawler-to-Scraper Cleaner" as CrawlerCleaner #LightGreen {
+        Cleans and formats data
+        from CrawlingLogic before
+        passing to ScrapingLogic
+      }
+
+      object "Scraper-to-Translator Cleaner" as ScraperCleaner #LightGreen {
+        Cleans and formats data
+        from ScrapingLogic before
+        passing to TranslationLogic
+      }
+    }
+
+  }
+
+
+
+
+  
+  object "Logging Service" as Logging #LightBlue {
+    Logs all system 
+    events and errors, 
+    connects to almost
+    all components
+  }
+  
+
+}
+
+object "Crawler API" as CrawlerAPI {
+  External crawling service
+}
+object "Scraper API" as ScraperAPI {
+  External scraping service
+}
+object "Translator API" as TranslatorAPI {
+  External translation service
+}
+
+
+User -left-> UserUILogic : Req UI
+UserUILogic -left-> UserBL : Req Info
+UserBL -left-> DB : Req Data
+
+
+Timer - -> Coordinator : Schedule Tasks
+
+Coordinator -down-> CrawlingLogic : (1) Invoke Crawling
+Coordinator -down-> ScrapingLogic : (2) Invoke Scraping
+Coordinator -down-> TranslationLogic : (3) Invoke Translator
+
+Coordinator -up-> CrawlerCleaner : (1.5) Clean Crawled Data
+Coordinator -up-> ScraperCleaner : (2.5) Clean Scraped Data
+Coordinator -right-> DB : (3.5) Enter Translated Data
+
+CrawlerCleaner -up-> DB : Cross\nReference
+ScraperCleaner -up-> DB : Cross\nReference
+
+
+ScrapingLogic - -> ScraperInterface : Invoke Scraper API
+TranslationLogic - -> TranslatorInterface : Invoke Translator API
+CrawlingLogic - -> CrawlerInterface : Invoke Crawler API
+
+ScraperInterface -up-> ScrapingError : Report Scraping Errors
+TranslatorInterface -up-> TranslationError : Report Translation Errors
+CrawlerInterface -up-> CrawlingError : Report Crawling Errors
+
+ScraperInterface - -> ScraperAPI 
+TranslatorInterface - -> TranslatorAPI 
+CrawlerInterface - -> CrawlerAPI 
+
+
+
+
+
+
+
+Logging -right-> DB : Store Logs
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 10:01:30 PDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

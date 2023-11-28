@@ -1,0 +1,280 @@
+'make the text bigger
+'color code the components
+@startuml
+
+' Set skin for a prettier look
+skinparam roundcorner 15
+skinparam classFontColor #2C3E50
+skinparam classBackgroundColor #ECF0F1
+skinparam classBorderColor #2980B9
+skinparam DefaultFontName Cambria
+
+
+
+' User Segment
+object "User" as User {
+  Interacts with the UI
+  to find Social Services, 
+  Get Help, or find Stuff
+}
+
+' object "Volenteer" as Vol {
+'   Interacts with the UI
+'   to give help
+' }
+
+' App Segment
+package "App - Tech4Refugees&Immigrants" {
+
+  package "Frontend" #LightYellow {
+    object "UI Logic" as UserUILogic #LightYellow {
+      Manages user interactions,
+      forwards requests to Business Logic
+    }
+    object "Business Logic" as UserBL #LightYellow {
+      Processes user requests,
+      interacts with Database
+    }
+  }
+
+  ' package "Frontend - Volenteer" {
+  '   object "Volenteer UI Logic" as VolUILogic {
+  '     Manages volenteer interactions,
+  '     forwards requests to Business Logic
+  '   }
+  '   object "Volenteer Business Logic" as VolBL {
+  '     Processes user volenteer requests,
+  '     interacts with Database and 
+  '     support services
+  '   }
+  ' }
+
+  object "Database" as DB #FFAAAA {
+    Stores and retrieves
+    site & social service data
+  }
+
+  package "Dynamic Webscraping" #LightGreen {
+
+    package "Coordinators" {
+      object "Timer" as Timer #LightGreen{
+        Invokes Coordinator
+        on set intervals
+      }
+      object "Coordinator" as Coordinator #LightGreen {
+        Invokes the logic units
+        as per the schedule
+      }
+    }
+
+    package "Crawling" {
+      object "Crawling Logic" as CrawlingLogic #LightGreen {
+        Invokes and controls
+        the crawling process
+      }
+      object "Crawling Error Handler" as CrawlingError #LightGreen {
+        Handles errors during
+        the crawling process
+      }
+      object "Crawler Interface" as CrawlerInterface #LightGreen {
+        Internal interface for
+        invoking crawler API
+      }
+    }
+
+    package "Scraping" {
+      object "ScrapingLogic" as ScrapingLogic #LightGreen {
+        Invokes and controls
+        the scraping process
+      }
+      object "ScrapingErrorHandler" as ScrapingError #LightGreen {
+        Handles errors during
+        the scraping process
+      }
+      object "Scraper Interface" as ScraperInterface #LightGreen {
+        Internal interface for
+        invoking scraper API
+      }
+    }
+
+    package "Translation" {
+      object "Translation Logic" as TranslationLogic #LightGreen {
+        Invokes and controls
+        the translation process
+      }
+      object "Translation Error Handler" as TranslationError #LightGreen {
+        Handles errors during
+        the translation process
+      }
+      object "Translator Interface" as TranslatorInterface #LightGreen {
+        Internal interface for
+        invoking translator API
+      }
+    }
+
+    package "Cleaners" {
+      object "Crawler-to-Scraper Cleaner" as CrawlerCleaner #LightGreen {
+        Cleans and formats data
+        from CrawlingLogic before
+        passing to ScrapingLogic
+      }
+
+      object "Scraper-to-Translator Cleaner" as ScraperCleaner #LightGreen {
+        Cleans and formats data
+        from ScrapingLogic before
+        passing to TranslationLogic
+      }
+    }
+
+  }
+
+  ' package "Calling Service" {
+  '   object "Calling Logic" as CallingLogic {
+  '     Invokes and controls
+  '     the WhatsApp Logic
+  '   }
+  '   object "Calling Error Handler" as CallingError {
+  '     Handles errors  during
+  '     the WhatsApp
+  '   }
+  '   object "Calling Interface" as CallingInterface {
+  '     Internal interface for
+  '     invoking crawler API
+  '   }
+  ' }
+
+  ' package "Marketplace Service" {
+  '   object "Marketplace Logic" as MarketplaceLogic {
+  '     Invokes and controls
+  '     the Marketplace transactions
+  '   }
+  '   object "Marketplace Error Handler" as MarketplaceError {
+  '     Handles errors during
+  '     the Marketplace operations
+  '   }
+  '   object "Marketplace Interface" as MarketplaceInterface {
+  '     Internal interface for
+  '     invoking Marketplace API
+  '   }
+  ' }
+
+  ' package "Forum Service" {
+  '   object "Forum Logic" as ForumLogic {
+  '     Invokes and controls
+  '     the Forum interactions
+  '   }
+  '   object "Forum Error Handler" as ForumError {
+  '     Handles errors during
+  '     the Forum communications
+  '   }
+  '   object "Forum Interface" as ForumInterface {
+  '     Internal interface for
+  '     invoking Forum API
+  '   }
+  ' }
+
+  
+  object "Logging Service" as Logging #LightBlue {
+    Logs all system 
+    events and errors, 
+    connects to almost
+    all components
+  }
+  
+
+}
+
+' External APIs
+object "Crawler API" as CrawlerAPI {
+  External crawling service
+}
+object "Scraper API" as ScraperAPI {
+  External scraping service
+}
+object "Translator API" as TranslatorAPI {
+  External translation service
+}
+
+' object "WhatsApp API" as WhatsAppAPI {
+'   External connection to whatsApp
+' }
+' object "Marketplace API" as MarketplaceAPI{
+'   External marketplace service
+' }
+' object "Forum API" as ForumAPI{
+'   External forum service
+' } 
+
+'Interaction Flow for User
+User -left-> UserUILogic : Req UI
+UserUILogic -left-> UserBL : Req Info
+UserBL -left-> DB : Req Data
+
+'Interaction Flow for Vol
+' Vol --> VolUILogic : Req UI
+' VolUILogic --> VolBL : Req Info
+' VolBL --> DB : Req Data
+
+' --- Webscraping ---
+'Timer to Task Manager
+Timer --> Coordinator : Schedule Tasks
+
+' Task Manager to Logic Units
+Coordinator -down-> CrawlingLogic : (1) Invoke Crawling
+Coordinator -down-> ScrapingLogic : (2) Invoke Scraping
+Coordinator -down-> TranslationLogic : (3) Invoke Translator
+
+'Task Manager to Data Cleaners then DB
+Coordinator -up-> CrawlerCleaner : (1.5) Clean Crawled Data
+Coordinator -up-> ScraperCleaner : (2.5) Clean Scraped Data
+Coordinator -right-> DB : (3.5) Enter Translated Data
+
+'Cleaners to Database
+CrawlerCleaner -up-> DB : Cross\nReference
+ScraperCleaner -up-> DB : Cross\nReference
+' --- Webscraping ---
+
+' -- intrapackage ---
+
+' Logic Units to Internal API Interfaces
+ScrapingLogic --> ScraperInterface : Invoke Scraper API
+TranslationLogic --> TranslatorInterface : Invoke Translator API
+CrawlingLogic --> CrawlerInterface : Invoke Crawler API
+' CallingLogic --> CallingInterface : Invoke WhatsApp API
+' MarketplaceLogic --> MarketplaceInterface : Invoke Marketplace API
+' ForumLogic --> ForumInterface : Invoke Forum API
+
+' Internal API Interfaces to Error Handling
+ScraperInterface -up-> ScrapingError : Report Scraping Errors
+TranslatorInterface -up-> TranslationError : Report Translation Errors
+CrawlerInterface -up-> CrawlingError : Report Crawling Errors
+' CallingInterface -up-> CallingError : Report Calling Errors
+' MarketplaceInterface -up-> MarketplaceError : Report Marketplace Errors
+' ForumInterface -up-> ForumError : Report Forum Errors
+
+' Internal Interfaces to External APIs
+ScraperInterface --> ScraperAPI 
+TranslatorInterface --> TranslatorAPI 
+CrawlerInterface --> CrawlerAPI 
+' CallingInterface --> WhatsAppAPI
+' MarketplaceInterface --> MarketplaceAPI
+' ForumInterface --> ForumAPI
+
+
+
+' -- intrapackage ---
+
+' UserBL --> CallingLogic : Start Call
+' VolBL --> CallingLogic : Start Call
+' DB --> CallingLogic : Contact info
+
+' UserBL --> ForumLogic : Go to Forum
+' DB --> ForumLogic : Forum Info
+
+' UserBL --> MarketplaceLogic : Start Call
+' DB --> MarketplaceLogic : Contact info
+
+' Database Interactions
+Logging -right-> DB : Store Logs
+
+@enduml

@@ -1,0 +1,81 @@
+@startuml
+
+' Set skin for a prettier look
+skinparam roundcorner 15
+skinparam classFontColor #2C3E50
+skinparam classBackgroundColor #ECF0F1
+skinparam classBorderColor #2980B9
+skinparam DefaultFontName Cambria
+
+' User Segment
+object "User" as User #FFC0CB {
+  Interacts with the UI
+  to find Social Services, 
+  Get Help, or find Stuff
+}
+
+' Frontend
+object "Frontend" as FE #FFFF99 {
+  Manages user interactions,
+  forwards requests to App
+}
+
+' Database
+object "Database" as DB #FFFF99 {
+  Stores and retrieves
+  site & social service data
+}
+
+' App
+object "Backend" as BE #FFFF99 {
+  Processes user requests,
+  interacts with Database and 
+  external APIs
+}
+
+' External APIs
+object "Crawler API" as CrawlerAPI #98FB98 {
+  External crawler
+}
+object "Scraper API" as ScraperAPI #98FB98 {
+  External scraper
+}
+object "Translator API" as TranslatorAPI #98FB98 {
+  External translator
+}
+
+object "Developer" as Dev #FFC0CB {
+  One of the members of 
+  the team working on code
+}
+
+object "Local IDEs + Testing" as IDE #87CEEB {
+  Code is developed 
+  and tested locally
+}
+
+
+
+object "Version Control" as VC #B19CD9 {
+  Likely Github, where code
+  and tests are stored, also
+  include deployment code and
+  information
+}
+
+' Define the relationships
+User -down-> FE : Requests UI
+FE -> DB : Forwards requests
+DB -> BE : Requests/Inserts Data
+BE -up-> CrawlerAPI : Invokes
+BE -up-> ScraperAPI : Invokes
+BE -up-> TranslatorAPI : Invokes
+
+Dev -right-> IDE : Write\nCode / Tests
+IDE <-right-> VC : Save\nCode / Tests
+
+IDE -up-> FE: Deploy
+IDE -up-> DB: Deploy
+IDE -up-> BE: Deploy
+
+@enduml
